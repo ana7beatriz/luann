@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    background-image: linear-gradient( black 40%,   rgb(65, 64, 63) 60%);
+    height: 100vh;
+}
+
+
+h2 {
+    font-size: 390%;
+    text-align: center;
+    border-color: red;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: yellow;
+ }
+ h3 {
+    font-size: 250%;
+    color: red;
+ }
+
+.p1{
+   
+    font-size:300%;
+    color: antiquewhite;
+    
+}

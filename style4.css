@@ -1,0 +1,28 @@
+body{
+ background-color: black;
+  background-image: linear-gradient( black 40%,   rgb(65, 64, 63) 60%);
+    height: 100vh;
+}
+
+h4{
+  font-size: 390%;
+    text-align: center;
+    border-color: red;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: yellow;
+}
+
+h5{
+    font-size: 250%;
+    color:white;
+}
+
+h6 {
+ font-size: 200%;
+ text-align: center;
+ color: red;
+}
+.p3 {
+    text-align: center;
+}
